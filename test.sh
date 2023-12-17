@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Reight test results
-answers="0 0 0 1 1 0 0"
+answers="0 0 0 1 1 0 0 0"
 
 i=1
 
